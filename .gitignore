@@ -1,0 +1,6 @@
+.DS_Store
+
+pbsync
+pbsync.o
+
+*.deb
